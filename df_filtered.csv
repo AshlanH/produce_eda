@@ -1,0 +1,997 @@
+,level_0,index,Iso3,StartDate,EndDate,Area,Item Code,Item,Element,Year,Months Code,Months,Value
+0,0,0,MYS,01/01/1991,31/12/1991,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+1,1,1,MYS,01/01/1992,31/12/1992,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+2,2,2,MYS,01/01/1993,31/12/1993,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+3,3,3,MYS,01/01/1994,31/12/1994,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+4,4,4,MYS,01/01/1995,31/12/1995,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+5,5,5,MYS,01/01/1996,31/12/1996,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+6,6,6,MYS,01/01/1997,31/12/1997,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+7,7,7,MYS,01/01/1998,31/12/1998,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+8,8,8,MYS,01/01/1999,31/12/1999,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+9,9,9,MYS,01/01/2000,31/12/2000,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+10,10,10,MYS,01/01/2001,31/12/2001,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+11,11,11,MYS,01/01/2002,31/12/2002,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+12,12,12,MYS,01/01/2003,31/12/2003,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+13,13,13,MYS,01/01/2004,31/12/2004,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+14,14,14,MYS,01/01/2005,31/12/2005,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+15,15,15,MYS,01/01/2006,31/12/2006,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+16,16,16,MYS,01/01/2007,31/12/2007,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+17,17,17,MYS,01/01/2008,31/12/2008,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+18,18,18,MYS,01/01/2009,31/12/2009,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+19,19,19,MYS,01/01/2010,31/12/2010,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+20,20,20,MYS,01/01/2011,31/12/2011,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+21,21,21,MYS,01/01/2012,31/12/2012,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+22,22,22,MYS,01/01/2013,31/12/2013,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+23,23,23,MYS,01/01/2014,31/12/2014,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+24,24,24,MYS,01/01/2015,31/12/2015,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+25,25,25,MYS,01/01/2016,31/12/2016,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+26,26,26,MYS,01/01/2017,31/12/2017,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+27,27,27,MYS,01/01/2018,31/12/2018,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+28,28,28,MYS,01/01/2019,31/12/2019,Malaysia,226,Areca nuts,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,98
+29,29,379,MYS,01/01/2012,31/12/2012,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2012,7021,Annual value,1550
+30,30,380,MYS,01/01/2013,31/12/2013,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2013,7021,Annual value,1800
+31,31,381,MYS,01/01/2014,31/12/2014,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2014,7021,Annual value,1700
+32,32,382,MYS,01/01/2015,31/12/2015,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2015,7021,Annual value,1850
+33,33,383,MYS,01/01/2016,31/12/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7021,Annual value,2250
+34,34,384,MYS,01/01/2016,31/01/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7001,January,2100
+35,35,385,MYS,01/02/2016,29/02/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7002,February,2150
+36,36,386,MYS,01/03/2016,31/03/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7003,March,2150
+37,37,387,MYS,01/04/2016,30/04/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7004,April,2250
+38,38,388,MYS,01/05/2016,31/05/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7005,May,2300
+39,39,389,MYS,01/06/2016,30/06/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7006,June,2250
+40,40,390,MYS,01/07/2016,31/07/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7007,July,2300
+41,41,391,MYS,01/08/2016,31/08/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7008,August,2300
+42,42,392,MYS,01/09/2016,30/09/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7009,September,2300
+43,43,393,MYS,01/10/2016,31/10/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7010,October,2300
+44,44,394,MYS,01/11/2016,30/11/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7011,November,2250
+45,45,395,MYS,01/12/2016,31/12/2016,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2016,7012,December,2200
+46,46,396,MYS,01/01/2017,31/12/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7021,Annual value,2200
+47,47,397,MYS,01/01/2017,31/01/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7001,January,2150
+48,48,398,MYS,01/02/2017,28/02/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7002,February,2150
+49,49,399,MYS,01/03/2017,31/03/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7003,March,2200
+50,50,400,MYS,01/04/2017,30/04/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7004,April,2250
+51,51,401,MYS,01/05/2017,31/05/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7005,May,2300
+52,52,402,MYS,01/06/2017,30/06/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7006,June,2300
+53,53,403,MYS,01/07/2017,31/07/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7007,July,2300
+54,54,404,MYS,01/08/2017,31/08/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7008,August,2250
+55,55,405,MYS,01/09/2017,30/09/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7009,September,2200
+56,56,406,MYS,01/10/2017,31/10/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7010,October,2150
+57,57,407,MYS,01/11/2017,30/11/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7011,November,2150
+58,58,408,MYS,01/12/2017,31/12/2017,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2017,7012,December,2000
+59,59,409,MYS,01/01/2018,31/12/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7021,Annual value,2550
+60,60,410,MYS,01/01/2018,31/01/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7001,January,2500
+61,61,411,MYS,01/02/2018,28/02/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7002,February,2550
+62,62,412,MYS,01/03/2018,31/03/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7003,March,2650
+63,63,413,MYS,01/04/2018,30/04/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7004,April,2450
+64,64,414,MYS,01/05/2018,31/05/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7005,May,2350
+65,65,415,MYS,01/06/2018,30/06/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7006,June,2600
+66,66,416,MYS,01/07/2018,31/07/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7007,July,2450
+67,67,417,MYS,01/08/2018,31/08/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7008,August,2550
+68,68,418,MYS,01/09/2018,30/09/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7009,September,2550
+69,69,419,MYS,01/10/2018,31/10/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7010,October,2550
+70,70,420,MYS,01/11/2018,30/11/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7011,November,2650
+71,71,421,MYS,01/12/2018,31/12/2018,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2018,7012,December,2550
+72,72,422,MYS,01/01/2019,31/12/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7021,Annual value,2500
+73,73,423,MYS,01/01/2019,31/01/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7001,January,2550
+74,74,424,MYS,01/02/2019,28/02/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7002,February,2600
+75,75,425,MYS,01/03/2019,31/03/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7003,March,2500
+76,76,426,MYS,01/04/2019,30/04/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7004,April,2400
+77,77,427,MYS,01/05/2019,31/05/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7005,May,2550
+78,78,428,MYS,01/06/2019,30/06/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7006,June,2250
+79,79,429,MYS,01/07/2019,31/07/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7007,July,2450
+80,80,430,MYS,01/08/2019,31/08/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7008,August,2550
+81,81,431,MYS,01/09/2019,30/09/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7009,September,2500
+82,82,432,MYS,01/10/2019,31/10/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7010,October,2550
+83,83,433,MYS,01/11/2019,30/11/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7011,November,2600
+84,84,434,MYS,01/12/2019,31/12/2019,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2019,7012,December,2350
+85,85,435,MYS,01/01/2020,31/01/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7001,January,2150
+86,86,436,MYS,01/02/2020,29/02/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7002,February,2550
+87,87,437,MYS,01/03/2020,31/03/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7003,March,2500
+88,88,438,MYS,01/04/2020,30/04/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7004,April,2750
+89,89,439,MYS,01/05/2020,31/05/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7005,May,2750
+90,90,440,MYS,01/06/2020,30/06/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7006,June,2100
+91,91,441,MYS,01/07/2020,31/07/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7007,July,2400
+92,92,442,MYS,01/08/2020,31/08/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7008,August,2500
+93,93,443,MYS,01/09/2020,30/09/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7009,September,2500
+94,94,444,MYS,01/10/2020,31/10/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7010,October,2550
+95,95,445,MYS,01/11/2020,30/11/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7011,November,2600
+96,96,446,MYS,01/12/2020,31/12/2020,Malaysia,484,Bananas Cavendish,Producer Price (LCU/tonne),2020,7012,December,2650
+97,97,447,MYS,01/01/2012,31/12/2012,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2012,7021,Annual value,1550
+98,98,448,MYS,01/01/2013,31/12/2013,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2013,7021,Annual value,1800
+99,99,449,MYS,01/01/2014,31/12/2014,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2014,7021,Annual value,1700
+100,100,450,MYS,01/01/2015,31/12/2015,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2015,7021,Annual value,1850
+101,101,451,MYS,01/01/2016,31/12/2016,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2016,7021,Annual value,2250
+102,102,452,MYS,01/01/2017,31/12/2017,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2017,7021,Annual value,2200
+103,103,453,MYS,01/01/2018,31/12/2018,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2018,7021,Annual value,2550
+104,104,454,MYS,01/01/2019,31/12/2019,Malaysia,484,Bananas Cavendish,Producer Price (SLC/tonne),2019,7021,Annual value,2500
+105,105,455,MYS,01/01/2012,31/12/2012,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2012,7021,Annual value,502
+106,106,456,MYS,01/01/2013,31/12/2013,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2013,7021,Annual value,571
+107,107,457,MYS,01/01/2014,31/12/2014,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2014,7021,Annual value,519
+108,108,458,MYS,01/01/2015,31/12/2015,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2015,7021,Annual value,474
+109,109,459,MYS,01/01/2016,31/12/2016,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2016,7021,Annual value,542
+110,110,460,MYS,01/01/2017,31/12/2017,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2017,7021,Annual value,512
+111,111,461,MYS,01/01/2018,31/12/2018,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2018,7021,Annual value,632
+112,112,462,MYS,01/01/2019,31/12/2019,Malaysia,484,Bananas Cavendish,Producer Price (USD/tonne),2019,7021,Annual value,604
+113,113,463,MYS,01/01/2012,31/12/2012,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,80
+114,114,464,MYS,01/01/2013,31/12/2013,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,93
+115,115,465,MYS,01/01/2014,31/12/2014,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,88
+116,116,466,MYS,01/01/2015,31/12/2015,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,96
+117,117,467,MYS,01/01/2016,31/12/2016,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,116
+118,118,468,MYS,01/01/2017,31/12/2017,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,114
+119,119,469,MYS,01/01/2018,31/12/2018,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,132
+120,120,470,MYS,01/01/2019,31/12/2019,Malaysia,484,Bananas Cavendish,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,129
+121,121,471,MYS,01/01/2012,31/12/2012,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2012,7021,Annual value,1450
+122,122,472,MYS,01/01/2013,31/12/2013,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2013,7021,Annual value,1550
+123,123,473,MYS,01/01/2014,31/12/2014,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2014,7021,Annual value,1900
+124,124,474,MYS,01/01/2015,31/12/2015,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2015,7021,Annual value,1950
+125,125,475,MYS,01/01/2016,31/12/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7021,Annual value,2050
+126,126,476,MYS,01/01/2016,31/01/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7001,January,2000
+127,127,477,MYS,01/02/2016,29/02/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7002,February,2050
+128,128,478,MYS,01/03/2016,31/03/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7003,March,2000
+129,129,479,MYS,01/04/2016,30/04/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7004,April,2000
+130,130,480,MYS,01/05/2016,31/05/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7005,May,2000
+131,131,481,MYS,01/06/2016,30/06/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7006,June,2000
+132,132,482,MYS,01/07/2016,31/07/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7007,July,2000
+133,133,483,MYS,01/08/2016,31/08/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7008,August,2050
+134,134,484,MYS,01/09/2016,30/09/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7009,September,2100
+135,135,485,MYS,01/10/2016,31/10/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7010,October,2150
+136,136,486,MYS,01/11/2016,30/11/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7011,November,2100
+137,137,487,MYS,01/12/2016,31/12/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2016,7012,December,2150
+138,138,488,MYS,01/01/2017,31/12/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7021,Annual value,2190
+139,139,489,MYS,01/01/2017,31/01/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7001,January,2150
+140,140,490,MYS,01/02/2017,28/02/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7002,February,2150
+141,141,491,MYS,01/03/2017,31/03/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7003,March,2200
+142,142,492,MYS,01/04/2017,30/04/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7004,April,2150
+143,143,493,MYS,01/05/2017,31/05/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7005,May,2200
+144,144,494,MYS,01/06/2017,30/06/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7006,June,2150
+145,145,495,MYS,01/07/2017,31/07/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7007,July,2200
+146,146,496,MYS,01/08/2017,31/08/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7008,August,2200
+147,147,497,MYS,01/09/2017,30/09/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7009,September,2200
+148,148,498,MYS,01/10/2017,31/10/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7010,October,2250
+149,149,499,MYS,01/11/2017,30/11/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7011,November,2200
+150,150,500,MYS,01/12/2017,31/12/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2017,7012,December,2250
+151,151,501,MYS,01/01/2018,31/12/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7021,Annual value,2150
+152,152,502,MYS,01/01/2018,31/01/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7001,January,2150
+153,153,503,MYS,01/02/2018,28/02/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7002,February,2200
+154,154,504,MYS,01/03/2018,31/03/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7003,March,2150
+155,155,505,MYS,01/04/2018,30/04/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7004,April,2150
+156,156,506,MYS,01/05/2018,31/05/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7005,May,2150
+157,157,507,MYS,01/06/2018,30/06/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7006,June,2050
+158,158,508,MYS,01/07/2018,31/07/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7007,July,2050
+159,159,509,MYS,01/08/2018,31/08/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7008,August,2100
+160,160,510,MYS,01/09/2018,30/09/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7009,September,2200
+161,161,511,MYS,01/10/2018,31/10/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7010,October,2200
+162,162,512,MYS,01/11/2018,30/11/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7011,November,2200
+163,163,513,MYS,01/12/2018,31/12/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2018,7012,December,2250
+164,164,514,MYS,01/01/2019,31/12/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7021,Annual value,2200
+165,165,515,MYS,01/01/2019,31/01/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7001,January,2200
+166,166,516,MYS,01/02/2019,28/02/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7002,February,2200
+167,167,517,MYS,01/03/2019,31/03/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7003,March,2150
+168,168,518,MYS,01/04/2019,30/04/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7004,April,2150
+169,169,519,MYS,01/05/2019,31/05/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7005,May,2150
+170,170,520,MYS,01/06/2019,30/06/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7006,June,2150
+171,171,521,MYS,01/07/2019,31/07/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7007,July,2200
+172,172,522,MYS,01/08/2019,31/08/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7008,August,2150
+173,173,523,MYS,01/09/2019,30/09/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7009,September,2200
+174,174,524,MYS,01/10/2019,31/10/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7010,October,2200
+175,175,525,MYS,01/11/2019,30/11/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7011,November,2200
+176,176,526,MYS,01/12/2019,31/12/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2019,7012,December,2150
+177,177,527,MYS,01/01/2020,31/01/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7001,January,2150
+178,178,528,MYS,01/02/2020,29/02/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7002,February,2150
+179,179,529,MYS,01/03/2020,31/03/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7003,March,2200
+180,180,530,MYS,01/04/2020,30/04/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7004,April,2250
+181,181,531,MYS,01/05/2020,31/05/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7005,May,2300
+182,182,532,MYS,01/06/2020,30/06/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7006,June,2250
+183,183,533,MYS,01/07/2020,31/07/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7007,July,2250
+184,184,534,MYS,01/08/2020,31/08/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7008,August,2300
+185,185,535,MYS,01/09/2020,30/09/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7009,September,2300
+186,186,536,MYS,01/10/2020,31/10/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7010,October,2200
+187,187,537,MYS,01/11/2020,30/11/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7011,November,2250
+188,188,538,MYS,01/12/2020,31/12/2020,Malaysia,485,Bananas non-Cavendish,Producer Price (LCU/tonne),2020,7012,December,2200
+189,189,539,MYS,01/01/2012,31/12/2012,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2012,7021,Annual value,1450
+190,190,540,MYS,01/01/2013,31/12/2013,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2013,7021,Annual value,1550
+191,191,541,MYS,01/01/2014,31/12/2014,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2014,7021,Annual value,1900
+192,192,542,MYS,01/01/2015,31/12/2015,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2015,7021,Annual value,1950
+193,193,543,MYS,01/01/2016,31/12/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2016,7021,Annual value,2050
+194,194,544,MYS,01/01/2017,31/12/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2017,7021,Annual value,2190
+195,195,545,MYS,01/01/2018,31/12/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2018,7021,Annual value,2150
+196,196,546,MYS,01/01/2019,31/12/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (SLC/tonne),2019,7021,Annual value,2200
+197,197,547,MYS,01/01/2012,31/12/2012,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2012,7021,Annual value,469
+198,198,548,MYS,01/01/2013,31/12/2013,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2013,7021,Annual value,492
+199,199,549,MYS,01/01/2014,31/12/2014,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2014,7021,Annual value,581
+200,200,550,MYS,01/01/2015,31/12/2015,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2015,7021,Annual value,499
+201,201,551,MYS,01/01/2016,31/12/2016,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2016,7021,Annual value,494
+202,202,552,MYS,01/01/2017,31/12/2017,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2017,7021,Annual value,509
+203,203,553,MYS,01/01/2018,31/12/2018,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2018,7021,Annual value,533
+204,204,554,MYS,01/01/2019,31/12/2019,Malaysia,485,Bananas non-Cavendish,Producer Price (USD/tonne),2019,7021,Annual value,531
+205,205,555,MYS,01/01/2012,31/12/2012,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,74
+206,206,556,MYS,01/01/2013,31/12/2013,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,79
+207,207,557,MYS,01/01/2014,31/12/2014,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,97
+208,208,558,MYS,01/01/2015,31/12/2015,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,99
+209,209,559,MYS,01/01/2016,31/12/2016,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,104
+210,210,560,MYS,01/01/2017,31/12/2017,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,111
+211,211,561,MYS,01/01/2018,31/12/2018,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,109
+212,212,562,MYS,01/01/2019,31/12/2019,Malaysia,485,Bananas non-Cavendish,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,112
+213,213,913,MYS,01/01/1991,31/12/1991,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+214,214,914,MYS,01/01/1992,31/12/1992,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+215,215,915,MYS,01/01/1993,31/12/1993,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+216,216,916,MYS,01/01/1994,31/12/1994,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+217,217,917,MYS,01/01/1995,31/12/1995,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+218,218,918,MYS,01/01/1996,31/12/1996,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+219,219,919,MYS,01/01/1997,31/12/1997,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+220,220,920,MYS,01/01/1998,31/12/1998,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+221,221,921,MYS,01/01/1999,31/12/1999,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+222,222,922,MYS,01/01/2000,31/12/2000,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+223,223,923,MYS,01/01/2001,31/12/2001,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+224,224,924,MYS,01/01/2002,31/12/2002,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+225,225,925,MYS,01/01/2003,31/12/2003,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+226,226,926,MYS,01/01/2004,31/12/2004,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+227,227,927,MYS,01/01/2005,31/12/2005,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+228,228,928,MYS,01/01/2006,31/12/2006,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+229,229,929,MYS,01/01/2007,31/12/2007,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+230,230,930,MYS,01/01/2008,31/12/2008,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+231,231,931,MYS,01/01/2009,31/12/2009,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+232,232,932,MYS,01/01/2010,31/12/2010,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+233,233,933,MYS,01/01/2011,31/12/2011,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+234,234,934,MYS,01/01/2012,31/12/2012,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+235,235,935,MYS,01/01/2013,31/12/2013,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+236,236,936,MYS,01/01/2014,31/12/2014,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+237,237,937,MYS,01/01/2015,31/12/2015,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+238,238,938,MYS,01/01/2016,31/12/2016,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+239,239,939,MYS,01/01/2017,31/12/2017,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+240,240,940,MYS,01/01/2018,31/12/2018,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+241,241,941,MYS,01/01/2019,31/12/2019,Malaysia,217,"Cashew nuts, with shell",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,93
+242,242,1286,MYS,01/01/1991,31/12/1991,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+243,243,1287,MYS,01/01/1992,31/12/1992,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+244,244,1288,MYS,01/01/1993,31/12/1993,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+245,245,1289,MYS,01/01/1994,31/12/1994,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+246,246,1290,MYS,01/01/1995,31/12/1995,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+247,247,1291,MYS,01/01/1996,31/12/1996,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+248,248,1292,MYS,01/01/1997,31/12/1997,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+249,249,1293,MYS,01/01/1998,31/12/1998,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+250,250,1294,MYS,01/01/1999,31/12/1999,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+251,251,1295,MYS,01/01/2000,31/12/2000,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+252,252,1296,MYS,01/01/2001,31/12/2001,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+253,253,1297,MYS,01/01/2002,31/12/2002,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+254,254,1298,MYS,01/01/2003,31/12/2003,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+255,255,1299,MYS,01/01/2004,31/12/2004,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+256,256,1300,MYS,01/01/2005,31/12/2005,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+257,257,1301,MYS,01/01/2006,31/12/2006,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+258,258,1302,MYS,01/01/2007,31/12/2007,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+259,259,1303,MYS,01/01/2008,31/12/2008,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+260,260,1304,MYS,01/01/2009,31/12/2009,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+261,261,1305,MYS,01/01/2010,31/12/2010,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+262,262,1306,MYS,01/01/2011,31/12/2011,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+263,263,1307,MYS,01/01/2012,31/12/2012,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+264,264,1308,MYS,01/01/2013,31/12/2013,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+265,265,1309,MYS,01/01/2014,31/12/2014,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+266,266,1310,MYS,01/01/2015,31/12/2015,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+267,267,1311,MYS,01/01/2016,31/12/2016,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+268,268,1312,MYS,01/01/2017,31/12/2017,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+269,269,1313,MYS,01/01/2018,31/12/2018,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+270,270,1314,MYS,01/01/2019,31/12/2019,Malaysia,689,"Chillies and peppers, dry",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,90
+271,271,1504,MYS,01/01/1991,31/12/1991,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+272,272,1505,MYS,01/01/1992,31/12/1992,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+273,273,1506,MYS,01/01/1993,31/12/1993,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+274,274,1507,MYS,01/01/1994,31/12/1994,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+275,275,1508,MYS,01/01/1995,31/12/1995,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+276,276,1509,MYS,01/01/1996,31/12/1996,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+277,277,1510,MYS,01/01/1997,31/12/1997,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+278,278,1511,MYS,01/01/1998,31/12/1998,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+279,279,1512,MYS,01/01/1999,31/12/1999,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+280,280,1513,MYS,01/01/2000,31/12/2000,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+281,281,1514,MYS,01/01/2001,31/12/2001,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+282,282,1515,MYS,01/01/2002,31/12/2002,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+283,283,1516,MYS,01/01/2003,31/12/2003,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+284,284,1517,MYS,01/01/2004,31/12/2004,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+285,285,1518,MYS,01/01/2005,31/12/2005,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+286,286,1519,MYS,01/01/2006,31/12/2006,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+287,287,1520,MYS,01/01/2007,31/12/2007,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+288,288,1521,MYS,01/01/2008,31/12/2008,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+289,289,1522,MYS,01/01/2009,31/12/2009,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+290,290,1523,MYS,01/01/2010,31/12/2010,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+291,291,1524,MYS,01/01/2011,31/12/2011,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+292,292,1525,MYS,01/01/2012,31/12/2012,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+293,293,1526,MYS,01/01/2013,31/12/2013,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+294,294,1527,MYS,01/01/2014,31/12/2014,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+295,295,1528,MYS,01/01/2015,31/12/2015,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+296,296,1529,MYS,01/01/2016,31/12/2016,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+297,297,1530,MYS,01/01/2017,31/12/2017,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+298,298,1531,MYS,01/01/2018,31/12/2018,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+299,299,1532,MYS,01/01/2019,31/12/2019,Malaysia,698,Cloves,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,93
+300,300,1905,MYS,01/01/1991,31/12/1991,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,44
+301,301,1906,MYS,01/01/1992,31/12/1992,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,44
+302,302,1907,MYS,01/01/1993,31/12/1993,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,45
+303,303,1908,MYS,01/01/1994,31/12/1994,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+304,304,1909,MYS,01/01/1995,31/12/1995,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,46
+305,305,1910,MYS,01/01/1996,31/12/1996,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+306,306,1911,MYS,01/01/1997,31/12/1997,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+307,307,1912,MYS,01/01/1998,31/12/1998,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,48
+308,308,1913,MYS,01/01/1999,31/12/1999,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+309,309,1914,MYS,01/01/2000,31/12/2000,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,51
+310,310,1915,MYS,01/01/2001,31/12/2001,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,49
+311,311,1916,MYS,01/01/2002,31/12/2002,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,51
+312,312,1917,MYS,01/01/2003,31/12/2003,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,53
+313,313,1918,MYS,01/01/2004,31/12/2004,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,57
+314,314,1919,MYS,01/01/2005,31/12/2005,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,57
+315,315,1920,MYS,01/01/2006,31/12/2006,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,63
+316,316,1921,MYS,01/01/2007,31/12/2007,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,86
+317,317,1922,MYS,01/01/2008,31/12/2008,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,99
+318,318,1923,MYS,01/01/2009,31/12/2009,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,80
+319,319,1924,MYS,01/01/2010,31/12/2010,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,108
+320,320,1925,MYS,01/01/2011,31/12/2011,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,134
+321,321,1926,MYS,01/01/2012,31/12/2012,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,120
+322,322,1927,MYS,01/01/2013,31/12/2013,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,113
+323,323,1928,MYS,01/01/2014,31/12/2014,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,112
+324,324,1929,MYS,01/01/2015,31/12/2015,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,93
+325,325,1930,MYS,01/01/2016,31/12/2016,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,95
+326,326,1931,MYS,01/01/2017,31/12/2017,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,95
+327,327,1932,MYS,01/01/2018,31/12/2018,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,95
+328,328,1933,MYS,01/01/2019,31/12/2019,Malaysia,656,"Coffee, green",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,95
+329,329,2569,MYS,01/01/1991,31/12/1991,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,58
+330,330,2570,MYS,01/01/1992,31/12/1992,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,59
+331,331,2571,MYS,01/01/1993,31/12/1993,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,61
+332,332,2572,MYS,01/01/1994,31/12/1994,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,67
+333,333,2573,MYS,01/01/1995,31/12/1995,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,56
+334,334,2574,MYS,01/01/1996,31/12/1996,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,56
+335,335,2575,MYS,01/01/1997,31/12/1997,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,56
+336,336,2576,MYS,01/01/1998,31/12/1998,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,56
+337,337,2577,MYS,01/01/1999,31/12/1999,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,56
+338,338,2578,MYS,01/01/2000,31/12/2000,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,56
+339,339,2579,MYS,01/01/2001,31/12/2001,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,56
+340,340,2580,MYS,01/01/2002,31/12/2002,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,56
+341,341,2581,MYS,01/01/2003,31/12/2003,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,63
+342,342,2582,MYS,01/01/2004,31/12/2004,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,69
+343,343,2583,MYS,01/01/2005,31/12/2005,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,72
+344,344,2584,MYS,01/01/2006,31/12/2006,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,66
+345,345,2585,MYS,01/01/2007,31/12/2007,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,73
+346,346,2586,MYS,01/01/2008,31/12/2008,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,84
+347,347,2587,MYS,01/01/2009,31/12/2009,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,88
+348,348,2588,MYS,01/01/2010,31/12/2010,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,91
+349,349,2589,MYS,01/01/2011,31/12/2011,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,97
+350,350,2590,MYS,01/01/2012,31/12/2012,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,94
+351,351,2591,MYS,01/01/2013,31/12/2013,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,103
+352,352,2592,MYS,01/01/2014,31/12/2014,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+353,353,2593,MYS,01/01/2015,31/12/2015,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+354,354,2594,MYS,01/01/2016,31/12/2016,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+355,355,2595,MYS,01/01/2017,31/12/2017,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+356,356,2596,MYS,01/01/2018,31/12/2018,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+357,357,2597,MYS,01/01/2019,31/12/2019,Malaysia,1091,"Eggs, other bird, in shell",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,102
+358,358,2956,MYS,01/01/1991,31/12/1991,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+359,359,2957,MYS,01/01/1992,31/12/1992,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+360,360,2958,MYS,01/01/1993,31/12/1993,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+361,361,2959,MYS,01/01/1994,31/12/1994,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+362,362,2960,MYS,01/01/1995,31/12/1995,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+363,363,2961,MYS,01/01/1996,31/12/1996,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+364,364,2962,MYS,01/01/1997,31/12/1997,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+365,365,2963,MYS,01/01/1998,31/12/1998,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,48
+366,366,2964,MYS,01/01/1999,31/12/1999,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+367,367,2965,MYS,01/01/2000,31/12/2000,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+368,368,2966,MYS,01/01/2001,31/12/2001,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+369,369,2967,MYS,01/01/2002,31/12/2002,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+370,370,2968,MYS,01/01/2003,31/12/2003,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+371,371,2969,MYS,01/01/2004,31/12/2004,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+372,372,2970,MYS,01/01/2005,31/12/2005,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+373,373,2971,MYS,01/01/2006,31/12/2006,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+374,374,2972,MYS,01/01/2007,31/12/2007,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+375,375,2973,MYS,01/01/2008,31/12/2008,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+376,376,2974,MYS,01/01/2009,31/12/2009,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+377,377,2975,MYS,01/01/2010,31/12/2010,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+378,378,2976,MYS,01/01/2011,31/12/2011,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+379,379,2977,MYS,01/01/2012,31/12/2012,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+380,380,2978,MYS,01/01/2013,31/12/2013,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+381,381,2979,MYS,01/01/2014,31/12/2014,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+382,382,2980,MYS,01/01/2015,31/12/2015,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+383,383,2981,MYS,01/01/2016,31/12/2016,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+384,384,2982,MYS,01/01/2017,31/12/2017,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+385,385,2983,MYS,01/01/2018,31/12/2018,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+386,386,2984,MYS,01/01/2019,31/12/2019,Malaysia,242,"Groundnuts, with shell",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,99
+387,387,4625,MYS,01/01/1991,31/12/1991,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,27
+388,388,4626,MYS,01/01/1992,31/12/1992,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,28
+389,389,4627,MYS,01/01/1993,31/12/1993,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,27
+390,390,4628,MYS,01/01/1994,31/12/1994,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,26
+391,391,4629,MYS,01/01/1995,31/12/1995,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,26
+392,392,4630,MYS,01/01/1996,31/12/1996,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,38
+393,393,4631,MYS,01/01/1997,31/12/1997,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,42
+394,394,4632,MYS,01/01/1998,31/12/1998,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,42
+395,395,4633,MYS,01/01/1999,31/12/1999,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,38
+396,396,4634,MYS,01/01/2000,31/12/2000,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,43
+397,397,4635,MYS,01/01/2001,31/12/2001,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,42
+398,398,4636,MYS,01/01/2002,31/12/2002,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,43
+399,399,4637,MYS,01/01/2003,31/12/2003,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,43
+400,400,4638,MYS,01/01/2004,31/12/2004,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,50
+401,401,4639,MYS,01/01/2005,31/12/2005,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,47
+402,402,4640,MYS,01/01/2006,31/12/2006,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,54
+403,403,4641,MYS,01/01/2007,31/12/2007,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,58
+404,404,4642,MYS,01/01/2008,31/12/2008,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,58
+405,405,4643,MYS,01/01/2009,31/12/2009,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,61
+406,406,4644,MYS,01/01/2010,31/12/2010,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,64
+407,407,4645,MYS,01/01/2011,31/12/2011,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,67
+408,408,4646,MYS,01/01/2012,31/12/2012,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,78
+409,409,4647,MYS,01/01/2013,31/12/2013,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,85
+410,410,4648,MYS,01/01/2014,31/12/2014,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,99
+411,411,4649,MYS,01/01/2015,31/12/2015,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,99
+412,412,4650,MYS,01/01/2016,31/12/2016,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,103
+413,413,4651,MYS,01/01/2017,31/12/2017,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,103
+414,414,4652,MYS,01/01/2018,31/12/2018,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,123
+415,415,4653,MYS,01/01/2019,31/12/2019,Malaysia,1121,"Meat live weight, horse",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,136
+416,416,5994,MYS,01/01/1991,31/12/1991,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+417,417,5995,MYS,01/01/1992,31/12/1992,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+418,418,5996,MYS,01/01/1993,31/12/1993,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+419,419,5997,MYS,01/01/1994,31/12/1994,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+420,420,5998,MYS,01/01/1995,31/12/1995,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+421,421,5999,MYS,01/01/1996,31/12/1996,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+422,422,6000,MYS,01/01/1997,31/12/1997,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+423,423,6001,MYS,01/01/1998,31/12/1998,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+424,424,6002,MYS,01/01/1999,31/12/1999,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+425,425,6003,MYS,01/01/2000,31/12/2000,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+426,426,6004,MYS,01/01/2001,31/12/2001,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+427,427,6005,MYS,01/01/2002,31/12/2002,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+428,428,6006,MYS,01/01/2003,31/12/2003,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+429,429,6007,MYS,01/01/2004,31/12/2004,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+430,430,6008,MYS,01/01/2005,31/12/2005,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+431,431,6009,MYS,01/01/2006,31/12/2006,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+432,432,6010,MYS,01/01/2007,31/12/2007,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+433,433,6011,MYS,01/01/2008,31/12/2008,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+434,434,6012,MYS,01/01/2009,31/12/2009,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+435,435,6013,MYS,01/01/2010,31/12/2010,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+436,436,6014,MYS,01/01/2011,31/12/2011,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+437,437,6015,MYS,01/01/2012,31/12/2012,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+438,438,6016,MYS,01/01/2013,31/12/2013,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+439,439,6017,MYS,01/01/2014,31/12/2014,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+440,440,6018,MYS,01/01/2015,31/12/2015,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+441,441,6019,MYS,01/01/2016,31/12/2016,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+442,442,6020,MYS,01/01/2017,31/12/2017,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+443,443,6021,MYS,01/01/2018,31/12/2018,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+444,444,6022,MYS,01/01/2019,31/12/2019,Malaysia,702,"Nutmeg, mace and cardamoms",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,101
+445,445,7905,MYS,01/01/1991,31/12/1991,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+446,446,7906,MYS,01/01/1992,31/12/1992,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+447,447,7907,MYS,01/01/1993,31/12/1993,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+448,448,7908,MYS,01/01/1994,31/12/1994,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+449,449,7909,MYS,01/01/1995,31/12/1995,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+450,450,7910,MYS,01/01/1996,31/12/1996,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+451,451,7911,MYS,01/01/1997,31/12/1997,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+452,452,7912,MYS,01/01/1998,31/12/1998,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,48
+453,453,7913,MYS,01/01/1999,31/12/1999,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+454,454,7914,MYS,01/01/2000,31/12/2000,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+455,455,7915,MYS,01/01/2001,31/12/2001,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+456,456,7916,MYS,01/01/2002,31/12/2002,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+457,457,7917,MYS,01/01/2003,31/12/2003,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+458,458,7918,MYS,01/01/2004,31/12/2004,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+459,459,7919,MYS,01/01/2005,31/12/2005,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+460,460,7920,MYS,01/01/2006,31/12/2006,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+461,461,7921,MYS,01/01/2007,31/12/2007,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+462,462,7922,MYS,01/01/2008,31/12/2008,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+463,463,7923,MYS,01/01/2009,31/12/2009,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+464,464,7924,MYS,01/01/2010,31/12/2010,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+465,465,7925,MYS,01/01/2011,31/12/2011,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+466,466,7926,MYS,01/01/2012,31/12/2012,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+467,467,7927,MYS,01/01/2013,31/12/2013,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+468,468,7928,MYS,01/01/2014,31/12/2014,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+469,469,7929,MYS,01/01/2015,31/12/2015,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+470,470,7930,MYS,01/01/2016,31/12/2016,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+471,471,7931,MYS,01/01/2017,31/12/2017,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+472,472,7932,MYS,01/01/2018,31/12/2018,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+473,473,7933,MYS,01/01/2019,31/12/2019,Malaysia,149,Roots and tubers nes,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,99
+474,474,8104,MYS,01/01/1991,31/12/1991,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+475,475,8105,MYS,01/01/1992,31/12/1992,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+476,476,8106,MYS,01/01/1993,31/12/1993,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+477,477,8107,MYS,01/01/1994,31/12/1994,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+478,478,8108,MYS,01/01/1995,31/12/1995,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+479,479,8109,MYS,01/01/1996,31/12/1996,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+480,480,8110,MYS,01/01/1997,31/12/1997,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+481,481,8111,MYS,01/01/1998,31/12/1998,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+482,482,8112,MYS,01/01/1999,31/12/1999,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,47
+483,483,8113,MYS,01/01/2000,31/12/2000,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+484,484,8114,MYS,01/01/2001,31/12/2001,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+485,485,8115,MYS,01/01/2002,31/12/2002,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+486,486,8116,MYS,01/01/2003,31/12/2003,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+487,487,8117,MYS,01/01/2004,31/12/2004,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+488,488,8118,MYS,01/01/2005,31/12/2005,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+489,489,8119,MYS,01/01/2006,31/12/2006,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+490,490,8120,MYS,01/01/2007,31/12/2007,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+491,491,8121,MYS,01/01/2008,31/12/2008,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+492,492,8122,MYS,01/01/2009,31/12/2009,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+493,493,8123,MYS,01/01/2010,31/12/2010,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+494,494,8124,MYS,01/01/2011,31/12/2011,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+495,495,8125,MYS,01/01/2012,31/12/2012,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+496,496,8126,MYS,01/01/2013,31/12/2013,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+497,497,8127,MYS,01/01/2014,31/12/2014,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+498,498,8128,MYS,01/01/2015,31/12/2015,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+499,499,8129,MYS,01/01/2016,31/12/2016,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+500,500,8130,MYS,01/01/2017,31/12/2017,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+501,501,8131,MYS,01/01/2018,31/12/2018,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+502,502,8132,MYS,01/01/2019,31/12/2019,Malaysia,236,Soybeans,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,103
+503,503,8686,MYS,01/01/1991,31/12/1991,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+504,504,8687,MYS,01/01/1992,31/12/1992,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+505,505,8688,MYS,01/01/1993,31/12/1993,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+506,506,8689,MYS,01/01/1994,31/12/1994,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+507,507,8690,MYS,01/01/1995,31/12/1995,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+508,508,8691,MYS,01/01/1996,31/12/1996,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+509,509,8692,MYS,01/01/1997,31/12/1997,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+510,510,8693,MYS,01/01/1998,31/12/1998,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+511,511,8694,MYS,01/01/1999,31/12/1999,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+512,512,8695,MYS,01/01/2000,31/12/2000,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+513,513,8696,MYS,01/01/2001,31/12/2001,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+514,514,8697,MYS,01/01/2002,31/12/2002,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+515,515,8698,MYS,01/01/2003,31/12/2003,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+516,516,8699,MYS,01/01/2004,31/12/2004,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+517,517,8700,MYS,01/01/2005,31/12/2005,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+518,518,8701,MYS,01/01/2006,31/12/2006,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+519,519,8702,MYS,01/01/2007,31/12/2007,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+520,520,8703,MYS,01/01/2008,31/12/2008,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+521,521,8704,MYS,01/01/2009,31/12/2009,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+522,522,8705,MYS,01/01/2010,31/12/2010,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+523,523,8706,MYS,01/01/2011,31/12/2011,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+524,524,8707,MYS,01/01/2012,31/12/2012,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+525,525,8708,MYS,01/01/2013,31/12/2013,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+526,526,8709,MYS,01/01/2014,31/12/2014,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+527,527,8710,MYS,01/01/2015,31/12/2015,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+528,528,8711,MYS,01/01/2016,31/12/2016,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+529,529,8712,MYS,01/01/2017,31/12/2017,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+530,530,8713,MYS,01/01/2018,31/12/2018,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+531,531,8714,MYS,01/01/2019,31/12/2019,Malaysia,667,Tea,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,88
+532,532,9011,MYS,01/01/1991,31/12/1991,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,32
+533,533,9012,MYS,01/01/1992,31/12/1992,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,37
+534,534,9013,MYS,01/01/1993,31/12/1993,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,41
+535,535,9014,MYS,01/01/1994,31/12/1994,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,48
+536,536,9015,MYS,01/01/1995,31/12/1995,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,49
+537,537,9016,MYS,01/01/1996,31/12/1996,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,60
+538,538,9017,MYS,01/01/1997,31/12/1997,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,58
+539,539,9018,MYS,01/01/1998,31/12/1998,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,43
+540,540,9019,MYS,01/01/1999,31/12/1999,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,38
+541,541,9020,MYS,01/01/2000,31/12/2000,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,35
+542,542,9021,MYS,01/01/2001,31/12/2001,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,38
+543,543,9022,MYS,01/01/2002,31/12/2002,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,52
+544,544,9023,MYS,01/01/2003,31/12/2003,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,44
+545,545,9024,MYS,01/01/2004,31/12/2004,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,55
+546,546,9025,MYS,01/01/2005,31/12/2005,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,57
+547,547,9026,MYS,01/01/2006,31/12/2006,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,65
+548,548,9027,MYS,01/01/2007,31/12/2007,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,93
+549,549,9028,MYS,01/01/2008,31/12/2008,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,84
+550,550,9029,MYS,01/01/2009,31/12/2009,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,89
+551,551,9030,MYS,01/01/2010,31/12/2010,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,99
+552,552,9031,MYS,01/01/2011,31/12/2011,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,97
+553,553,9032,MYS,01/01/2012,31/12/2012,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,101
+554,554,9033,MYS,01/01/2013,31/12/2013,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,106
+555,555,9034,MYS,01/01/2014,31/12/2014,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+556,556,9035,MYS,01/01/2015,31/12/2015,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+557,557,9036,MYS,01/01/2016,31/12/2016,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+558,558,9037,MYS,01/01/2017,31/12/2017,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+559,559,9038,MYS,01/01/2018,31/12/2018,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+560,560,9039,MYS,01/01/2019,31/12/2019,Malaysia,463,"Vegetables, fresh nes",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,97
+561,561,9493,MYS,01/01/1991,31/12/1991,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,22
+562,562,9494,MYS,01/01/1992,31/12/1992,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,24
+563,563,9495,MYS,01/01/1993,31/12/1993,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,25
+564,564,9496,MYS,01/01/1994,31/12/1994,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,31
+565,565,9497,MYS,01/01/1995,31/12/1995,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,34
+566,566,9498,MYS,01/01/1996,31/12/1996,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,31
+567,567,9499,MYS,01/01/1997,31/12/1997,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,33
+568,568,9500,MYS,01/01/1998,31/12/1998,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,45
+569,569,9501,MYS,01/01/1999,31/12/1999,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,33
+570,570,9502,MYS,01/01/2000,31/12/2000,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,28
+571,571,9503,MYS,01/01/2001,31/12/2001,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,27
+572,572,9504,MYS,01/01/2002,31/12/2002,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,35
+573,573,9505,MYS,01/01/2003,31/12/2003,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,40
+574,574,9506,MYS,01/01/2004,31/12/2004,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,42
+575,575,9507,MYS,01/01/2005,31/12/2005,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,40
+576,576,9508,MYS,01/01/2006,31/12/2006,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,51
+577,577,9509,MYS,01/01/2007,31/12/2007,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,64
+578,578,9510,MYS,01/01/2008,31/12/2008,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,75
+579,579,9511,MYS,01/01/2009,31/12/2009,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,84
+580,580,9512,MYS,01/01/2010,31/12/2010,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,109
+581,581,9513,MYS,01/01/2011,31/12/2011,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,131
+582,582,9514,MYS,01/01/2012,31/12/2012,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,111
+583,583,9515,MYS,01/01/2013,31/12/2013,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,95
+584,584,9516,MYS,01/01/2014,31/12/2014,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,99
+585,585,9517,MYS,01/01/2015,31/12/2015,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,92
+586,586,9518,MYS,01/01/2016,31/12/2016,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,109
+587,587,9519,MYS,01/01/2017,31/12/2017,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,112
+588,588,9520,MYS,01/01/2018,31/12/2018,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,93
+589,589,9521,MYS,01/01/2019,31/12/2019,Malaysia,2051,Agriculture,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,88
+590,590,9522,MYS,01/01/1991,31/12/1991,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,34
+591,591,9523,MYS,01/01/1992,31/12/1992,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,34
+592,592,9524,MYS,01/01/1993,31/12/1993,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,34
+593,593,9525,MYS,01/01/1994,31/12/1994,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,34
+594,594,9526,MYS,01/01/1995,31/12/1995,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,40
+595,595,9527,MYS,01/01/1996,31/12/1996,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,41
+596,596,9528,MYS,01/01/1997,31/12/1997,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,44
+597,597,9529,MYS,01/01/1998,31/12/1998,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,51
+598,598,9530,MYS,01/01/1999,31/12/1999,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,46
+599,599,9531,MYS,01/01/2000,31/12/2000,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,45
+600,600,9532,MYS,01/01/2001,31/12/2001,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,55
+601,601,9533,MYS,01/01/2002,31/12/2002,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,58
+602,602,9534,MYS,01/01/2003,31/12/2003,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,60
+603,603,9535,MYS,01/01/2004,31/12/2004,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,50
+604,604,9536,MYS,01/01/2005,31/12/2005,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,52
+605,605,9537,MYS,01/01/2006,31/12/2006,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,54
+606,606,9538,MYS,01/01/2007,31/12/2007,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,54
+607,607,9539,MYS,01/01/2008,31/12/2008,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,63
+608,608,9540,MYS,01/01/2009,31/12/2009,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,63
+609,609,9541,MYS,01/01/2010,31/12/2010,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,63
+610,610,9542,MYS,01/01/2011,31/12/2011,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,63
+611,611,9543,MYS,01/01/2012,31/12/2012,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,63
+612,612,9544,MYS,01/01/2013,31/12/2013,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,63
+613,613,9545,MYS,01/01/2014,31/12/2014,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,100
+614,614,9546,MYS,01/01/2015,31/12/2015,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,100
+615,615,9547,MYS,01/01/2016,31/12/2016,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,100
+616,616,9548,MYS,01/01/2017,31/12/2017,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,100
+617,617,9549,MYS,01/01/2018,31/12/2018,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,100
+618,618,9550,MYS,01/01/2019,31/12/2019,Malaysia,1717,"Cereals, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,100
+619,619,9551,MYS,01/01/1991,31/12/1991,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,42
+620,620,9552,MYS,01/01/1992,31/12/1992,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,46
+621,621,9553,MYS,01/01/1993,31/12/1993,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,52
+622,622,9554,MYS,01/01/1994,31/12/1994,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,28
+623,623,9555,MYS,01/01/1995,31/12/1995,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,53
+624,624,9556,MYS,01/01/1996,31/12/1996,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,56
+625,625,9557,MYS,01/01/1997,31/12/1997,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,52
+626,626,9558,MYS,01/01/1998,31/12/1998,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,61
+627,627,9559,MYS,01/01/1999,31/12/1999,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,66
+628,628,9560,MYS,01/01/2000,31/12/2000,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,62
+629,629,9561,MYS,01/01/2001,31/12/2001,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,59
+630,630,9562,MYS,01/01/2002,31/12/2002,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,57
+631,631,9563,MYS,01/01/2003,31/12/2003,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,58
+632,632,9564,MYS,01/01/2004,31/12/2004,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,63
+633,633,9565,MYS,01/01/2005,31/12/2005,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,63
+634,634,9566,MYS,01/01/2006,31/12/2006,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,69
+635,635,9567,MYS,01/01/2007,31/12/2007,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,69
+636,636,9568,MYS,01/01/2008,31/12/2008,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,86
+637,637,9569,MYS,01/01/2009,31/12/2009,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,88
+638,638,9570,MYS,01/01/2010,31/12/2010,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,82
+639,639,9571,MYS,01/01/2011,31/12/2011,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,89
+640,640,9572,MYS,01/01/2012,31/12/2012,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,98
+641,641,9573,MYS,01/01/2013,31/12/2013,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,96
+642,642,9574,MYS,01/01/2014,31/12/2014,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,70
+643,643,9575,MYS,01/01/2015,31/12/2015,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,126
+644,644,9576,MYS,01/01/2016,31/12/2016,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,104
+645,645,9577,MYS,01/01/2017,31/12/2017,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,106
+646,646,9578,MYS,01/01/2018,31/12/2018,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,105
+647,647,9579,MYS,01/01/2019,31/12/2019,Malaysia,1804,"Citrus Fruit, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,102
+648,648,9580,MYS,01/01/1991,31/12/1991,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,53
+649,649,9581,MYS,01/01/1992,31/12/1992,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,54
+650,650,9582,MYS,01/01/1993,31/12/1993,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,54
+651,651,9583,MYS,01/01/1994,31/12/1994,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,55
+652,652,9584,MYS,01/01/1995,31/12/1995,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,56
+653,653,9585,MYS,01/01/1996,31/12/1996,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,56
+654,654,9586,MYS,01/01/1997,31/12/1997,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,57
+655,655,9587,MYS,01/01/1998,31/12/1998,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,59
+656,656,9588,MYS,01/01/1999,31/12/1999,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,59
+657,657,9589,MYS,01/01/2000,31/12/2000,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,62
+658,658,9590,MYS,01/01/2001,31/12/2001,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,60
+659,659,9591,MYS,01/01/2002,31/12/2002,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,62
+660,660,9592,MYS,01/01/2003,31/12/2003,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,64
+661,661,9593,MYS,01/01/2004,31/12/2004,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,62
+662,662,9594,MYS,01/01/2005,31/12/2005,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,59
+663,663,9595,MYS,01/01/2006,31/12/2006,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,57
+664,664,9596,MYS,01/01/2007,31/12/2007,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,60
+665,665,9597,MYS,01/01/2008,31/12/2008,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,69
+666,666,9598,MYS,01/01/2009,31/12/2009,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,77
+667,667,9599,MYS,01/01/2010,31/12/2010,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,77
+668,668,9600,MYS,01/01/2011,31/12/2011,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,85
+669,669,9601,MYS,01/01/2012,31/12/2012,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,92
+670,670,9602,MYS,01/01/2013,31/12/2013,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,92
+671,671,9603,MYS,01/01/2014,31/12/2014,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,92
+672,672,9604,MYS,01/01/2015,31/12/2015,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,100
+673,673,9605,MYS,01/01/2016,31/12/2016,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,108
+674,674,9606,MYS,01/01/2017,31/12/2017,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,108
+675,675,9607,MYS,01/01/2018,31/12/2018,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,108
+676,676,9608,MYS,01/01/2019,31/12/2019,Malaysia,1814,"Coarse Grain, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,110
+677,677,9609,MYS,01/01/1991,31/12/1991,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,54
+678,678,9610,MYS,01/01/1992,31/12/1992,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,54
+679,679,9611,MYS,01/01/1993,31/12/1993,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,57
+680,680,9612,MYS,01/01/1994,31/12/1994,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,63
+681,681,9613,MYS,01/01/1995,31/12/1995,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,52
+682,682,9614,MYS,01/01/1996,31/12/1996,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,52
+683,683,9615,MYS,01/01/1997,31/12/1997,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,52
+684,684,9616,MYS,01/01/1998,31/12/1998,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,52
+685,685,9617,MYS,01/01/1999,31/12/1999,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,52
+686,686,9618,MYS,01/01/2000,31/12/2000,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,52
+687,687,9619,MYS,01/01/2001,31/12/2001,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,52
+688,688,9620,MYS,01/01/2002,31/12/2002,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,52
+689,689,9621,MYS,01/01/2003,31/12/2003,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,58
+690,690,9622,MYS,01/01/2004,31/12/2004,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,64
+691,691,9623,MYS,01/01/2005,31/12/2005,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,67
+692,692,9624,MYS,01/01/2006,31/12/2006,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,61
+693,693,9625,MYS,01/01/2007,31/12/2007,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,68
+694,694,9626,MYS,01/01/2008,31/12/2008,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,78
+695,695,9627,MYS,01/01/2009,31/12/2009,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,81
+696,696,9628,MYS,01/01/2010,31/12/2010,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,84
+697,697,9629,MYS,01/01/2011,31/12/2011,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,90
+698,698,9630,MYS,01/01/2012,31/12/2012,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,87
+699,699,9631,MYS,01/01/2013,31/12/2013,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,96
+700,700,9632,MYS,01/01/2014,31/12/2014,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,103
+701,701,9633,MYS,01/01/2015,31/12/2015,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,101
+702,702,9634,MYS,01/01/2016,31/12/2016,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,96
+703,703,9635,MYS,01/01/2017,31/12/2017,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,93
+704,704,9636,MYS,01/01/2018,31/12/2018,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,99
+705,705,9637,MYS,01/01/2019,31/12/2019,Malaysia,1783,Eggs Primary,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,103
+706,706,9638,MYS,01/01/1991,31/12/1991,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,36
+707,707,9639,MYS,01/01/1992,31/12/1992,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,38
+708,708,9640,MYS,01/01/1993,31/12/1993,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,39
+709,709,9641,MYS,01/01/1994,31/12/1994,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,34
+710,710,9642,MYS,01/01/1995,31/12/1995,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,32
+711,711,9643,MYS,01/01/1996,31/12/1996,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,39
+712,712,9644,MYS,01/01/1997,31/12/1997,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,53
+713,713,9645,MYS,01/01/1998,31/12/1998,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,60
+714,714,9646,MYS,01/01/1999,31/12/1999,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,53
+715,715,9647,MYS,01/01/2000,31/12/2000,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,57
+716,716,9648,MYS,01/01/2001,31/12/2001,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,49
+717,717,9649,MYS,01/01/2002,31/12/2002,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,43
+718,718,9650,MYS,01/01/2003,31/12/2003,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,51
+719,719,9651,MYS,01/01/2004,31/12/2004,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,49
+720,720,9652,MYS,01/01/2005,31/12/2005,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,54
+721,721,9653,MYS,01/01/2006,31/12/2006,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,51
+722,722,9654,MYS,01/01/2007,31/12/2007,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,57
+723,723,9655,MYS,01/01/2008,31/12/2008,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,73
+724,724,9656,MYS,01/01/2009,31/12/2009,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,81
+725,725,9657,MYS,01/01/2010,31/12/2010,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,74
+726,726,9658,MYS,01/01/2011,31/12/2011,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,72
+727,727,9659,MYS,01/01/2012,31/12/2012,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,75
+728,728,9660,MYS,01/01/2013,31/12/2013,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,78
+729,729,9661,MYS,01/01/2014,31/12/2014,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,89
+730,730,9662,MYS,01/01/2015,31/12/2015,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,101
+731,731,9663,MYS,01/01/2016,31/12/2016,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,109
+732,732,9664,MYS,01/01/2017,31/12/2017,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,103
+733,733,9665,MYS,01/01/2018,31/12/2018,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,110
+734,734,9666,MYS,01/01/2019,31/12/2019,Malaysia,1801,"Fruit excl Melons, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,111
+735,735,9667,MYS,01/01/1991,31/12/1991,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,37
+736,736,9668,MYS,01/01/1992,31/12/1992,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,39
+737,737,9669,MYS,01/01/1993,31/12/1993,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,39
+738,738,9670,MYS,01/01/1994,31/12/1994,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,36
+739,739,9671,MYS,01/01/1995,31/12/1995,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,37
+740,740,9672,MYS,01/01/1996,31/12/1996,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,42
+741,741,9673,MYS,01/01/1997,31/12/1997,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,55
+742,742,9674,MYS,01/01/1998,31/12/1998,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,60
+743,743,9675,MYS,01/01/1999,31/12/1999,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,53
+744,744,9676,MYS,01/01/2000,31/12/2000,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,56
+745,745,9677,MYS,01/01/2001,31/12/2001,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,49
+746,746,9678,MYS,01/01/2002,31/12/2002,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,45
+747,747,9679,MYS,01/01/2003,31/12/2003,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+748,748,9680,MYS,01/01/2004,31/12/2004,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,49
+749,749,9681,MYS,01/01/2005,31/12/2005,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,53
+750,750,9682,MYS,01/01/2006,31/12/2006,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,52
+751,751,9683,MYS,01/01/2007,31/12/2007,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,57
+752,752,9684,MYS,01/01/2008,31/12/2008,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,74
+753,753,9685,MYS,01/01/2009,31/12/2009,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,81
+754,754,9686,MYS,01/01/2010,31/12/2010,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,74
+755,755,9687,MYS,01/01/2011,31/12/2011,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,73
+756,756,9688,MYS,01/01/2012,31/12/2012,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,76
+757,757,9689,MYS,01/01/2013,31/12/2013,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,81
+758,758,9690,MYS,01/01/2014,31/12/2014,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,90
+759,759,9691,MYS,01/01/2015,31/12/2015,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,101
+760,760,9692,MYS,01/01/2016,31/12/2016,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,109
+761,761,9693,MYS,01/01/2017,31/12/2017,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,105
+762,762,9694,MYS,01/01/2018,31/12/2018,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,110
+763,763,9695,MYS,01/01/2019,31/12/2019,Malaysia,1738,Fruit Primary,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,112
+764,764,9696,MYS,01/01/1991,31/12/1991,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,53
+765,765,9697,MYS,01/01/1992,31/12/1992,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,53
+766,766,9698,MYS,01/01/1993,31/12/1993,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,57
+767,767,9699,MYS,01/01/1994,31/12/1994,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,62
+768,768,9700,MYS,01/01/1995,31/12/1995,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,52
+769,769,9701,MYS,01/01/1996,31/12/1996,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,52
+770,770,9702,MYS,01/01/1997,31/12/1997,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,53
+771,771,9703,MYS,01/01/1998,31/12/1998,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,53
+772,772,9704,MYS,01/01/1999,31/12/1999,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,53
+773,773,9705,MYS,01/01/2000,31/12/2000,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,53
+774,774,9706,MYS,01/01/2001,31/12/2001,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,53
+775,775,9707,MYS,01/01/2002,31/12/2002,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,53
+776,776,9708,MYS,01/01/2003,31/12/2003,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,58
+777,777,9709,MYS,01/01/2004,31/12/2004,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,64
+778,778,9710,MYS,01/01/2005,31/12/2005,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,67
+779,779,9711,MYS,01/01/2006,31/12/2006,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,61
+780,780,9712,MYS,01/01/2007,31/12/2007,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,68
+781,781,9713,MYS,01/01/2008,31/12/2008,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,78
+782,782,9714,MYS,01/01/2009,31/12/2009,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,82
+783,783,9715,MYS,01/01/2010,31/12/2010,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,84
+784,784,9716,MYS,01/01/2011,31/12/2011,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,90
+785,785,9717,MYS,01/01/2012,31/12/2012,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,87
+786,786,9718,MYS,01/01/2013,31/12/2013,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,96
+787,787,9719,MYS,01/01/2014,31/12/2014,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,103
+788,788,9720,MYS,01/01/2015,31/12/2015,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,101
+789,789,9721,MYS,01/01/2016,31/12/2016,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,96
+790,790,9722,MYS,01/01/2017,31/12/2017,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,94
+791,791,9723,MYS,01/01/2018,31/12/2018,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,99
+792,792,9724,MYS,01/01/2019,31/12/2019,Malaysia,2044,Livestock,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,103
+793,793,9725,MYS,01/01/1991,31/12/1991,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,45
+794,794,9726,MYS,01/01/1992,31/12/1992,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+795,795,9727,MYS,01/01/1993,31/12/1993,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,54
+796,796,9728,MYS,01/01/1994,31/12/1994,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,52
+797,797,9729,MYS,01/01/1995,31/12/1995,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,58
+798,798,9730,MYS,01/01/1996,31/12/1996,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,44
+799,799,9731,MYS,01/01/1997,31/12/1997,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,48
+800,800,9732,MYS,01/01/1998,31/12/1998,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,50
+801,801,9733,MYS,01/01/1999,31/12/1999,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,47
+802,802,9734,MYS,01/01/2000,31/12/2000,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,51
+803,803,9735,MYS,01/01/2001,31/12/2001,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,58
+804,804,9736,MYS,01/01/2002,31/12/2002,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,54
+805,805,9737,MYS,01/01/2003,31/12/2003,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,54
+806,806,9738,MYS,01/01/2004,31/12/2004,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,58
+807,807,9739,MYS,01/01/2005,31/12/2005,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,65
+808,808,9740,MYS,01/01/2006,31/12/2006,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,75
+809,809,9741,MYS,01/01/2007,31/12/2007,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,75
+810,810,9742,MYS,01/01/2008,31/12/2008,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,80
+811,811,9743,MYS,01/01/2009,31/12/2009,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,84
+812,812,9744,MYS,01/01/2010,31/12/2010,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,88
+813,813,9745,MYS,01/01/2011,31/12/2011,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,86
+814,814,9746,MYS,01/01/2012,31/12/2012,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,88
+815,815,9747,MYS,01/01/2013,31/12/2013,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,91
+816,816,9748,MYS,01/01/2014,31/12/2014,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,94
+817,817,9749,MYS,01/01/2015,31/12/2015,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,100
+818,818,9750,MYS,01/01/2016,31/12/2016,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,106
+819,819,9751,MYS,01/01/2017,31/12/2017,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,108
+820,820,9752,MYS,01/01/2018,31/12/2018,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,113
+821,821,9753,MYS,01/01/2019,31/12/2019,Malaysia,1765,"Meat, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,103
+822,822,9754,MYS,01/01/1991,31/12/1991,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+823,823,9755,MYS,01/01/1992,31/12/1992,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+824,824,9756,MYS,01/01/1993,31/12/1993,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+825,825,9757,MYS,01/01/1994,31/12/1994,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,44
+826,826,9758,MYS,01/01/1995,31/12/1995,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,44
+827,827,9759,MYS,01/01/1996,31/12/1996,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,52
+828,828,9760,MYS,01/01/1997,31/12/1997,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,59
+829,829,9761,MYS,01/01/1998,31/12/1998,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,67
+830,830,9762,MYS,01/01/1999,31/12/1999,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,78
+831,831,9763,MYS,01/01/2000,31/12/2000,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,67
+832,832,9764,MYS,01/01/2001,31/12/2001,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,66
+833,833,9765,MYS,01/01/2002,31/12/2002,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,66
+834,834,9766,MYS,01/01/2003,31/12/2003,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,67
+835,835,9767,MYS,01/01/2004,31/12/2004,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,66
+836,836,9768,MYS,01/01/2005,31/12/2005,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,66
+837,837,9769,MYS,01/01/2006,31/12/2006,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,66
+838,838,9770,MYS,01/01/2007,31/12/2007,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,76
+839,839,9771,MYS,01/01/2008,31/12/2008,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,76
+840,840,9772,MYS,01/01/2009,31/12/2009,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,89
+841,841,9773,MYS,01/01/2010,31/12/2010,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,89
+842,842,9774,MYS,01/01/2011,31/12/2011,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,94
+843,843,9775,MYS,01/01/2012,31/12/2012,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,94
+844,844,9776,MYS,01/01/2013,31/12/2013,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,99
+845,845,9777,MYS,01/01/2014,31/12/2014,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,99
+846,846,9778,MYS,01/01/2015,31/12/2015,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,96
+847,847,9779,MYS,01/01/2016,31/12/2016,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,105
+848,848,9780,MYS,01/01/2017,31/12/2017,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,118
+849,849,9781,MYS,01/01/2018,31/12/2018,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,118
+850,850,9782,MYS,01/01/2019,31/12/2019,Malaysia,1780,"Milk, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,118
+851,851,9783,MYS,01/01/1991,31/12/1991,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,12
+852,852,9784,MYS,01/01/1992,31/12/1992,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,14
+853,853,9785,MYS,01/01/1993,31/12/1993,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,16
+854,854,9786,MYS,01/01/1994,31/12/1994,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,22
+855,855,9787,MYS,01/01/1995,31/12/1995,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,26
+856,856,9788,MYS,01/01/1996,31/12/1996,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,21
+857,857,9789,MYS,01/01/1997,31/12/1997,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,24
+858,858,9790,MYS,01/01/1998,31/12/1998,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,41
+859,859,9791,MYS,01/01/1999,31/12/1999,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,26
+860,860,9792,MYS,01/01/2000,31/12/2000,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,18
+861,861,9793,MYS,01/01/2001,31/12/2001,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,16
+862,862,9794,MYS,01/01/2002,31/12/2002,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,26
+863,863,9795,MYS,01/01/2003,31/12/2003,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,30
+864,864,9796,MYS,01/01/2004,31/12/2004,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,33
+865,865,9797,MYS,01/01/2005,31/12/2005,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,28
+866,866,9798,MYS,01/01/2006,31/12/2006,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,42
+867,867,9799,MYS,01/01/2007,31/12/2007,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,56
+868,868,9800,MYS,01/01/2008,31/12/2008,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,70
+869,869,9801,MYS,01/01/2009,31/12/2009,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,84
+870,870,9802,MYS,01/01/2010,31/12/2010,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,112
+871,871,9803,MYS,01/01/2011,31/12/2011,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,139
+872,872,9804,MYS,01/01/2012,31/12/2012,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,117
+873,873,9805,MYS,01/01/2013,31/12/2013,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,93
+874,874,9806,MYS,01/01/2014,31/12/2014,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,99
+875,875,9807,MYS,01/01/2015,31/12/2015,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,88
+876,876,9808,MYS,01/01/2016,31/12/2016,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,113
+877,877,9809,MYS,01/01/2017,31/12/2017,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,116
+878,878,9810,MYS,01/01/2018,31/12/2018,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,90
+879,879,9811,MYS,01/01/2019,31/12/2019,Malaysia,1732,"Oilcrops, Oil Equivalent",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,81
+880,880,9812,MYS,01/01/1991,31/12/1991,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,17
+881,881,9813,MYS,01/01/1992,31/12/1992,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,17
+882,882,9814,MYS,01/01/1993,31/12/1993,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,21
+883,883,9815,MYS,01/01/1994,31/12/1994,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,21
+884,884,9816,MYS,01/01/1995,31/12/1995,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,23
+885,885,9817,MYS,01/01/1996,31/12/1996,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,27
+886,886,9818,MYS,01/01/1997,31/12/1997,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,29
+887,887,9819,MYS,01/01/1998,31/12/1998,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,34
+888,888,9820,MYS,01/01/1999,31/12/1999,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,31
+889,889,9821,MYS,01/01/2000,31/12/2000,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,30
+890,890,9822,MYS,01/01/2001,31/12/2001,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,36
+891,891,9823,MYS,01/01/2002,31/12/2002,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,38
+892,892,9824,MYS,01/01/2003,31/12/2003,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,40
+893,893,9825,MYS,01/01/2004,31/12/2004,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,44
+894,894,9826,MYS,01/01/2005,31/12/2005,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,49
+895,895,9827,MYS,01/01/2006,31/12/2006,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,53
+896,896,9828,MYS,01/01/2007,31/12/2007,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,52
+897,897,9829,MYS,01/01/2008,31/12/2008,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,56
+898,898,9830,MYS,01/01/2009,31/12/2009,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,68
+899,899,9831,MYS,01/01/2010,31/12/2010,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,71
+900,900,9832,MYS,01/01/2011,31/12/2011,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,75
+901,901,9833,MYS,01/01/2012,31/12/2012,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,83
+902,902,9834,MYS,01/01/2013,31/12/2013,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,87
+903,903,9835,MYS,01/01/2014,31/12/2014,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,92
+904,904,9836,MYS,01/01/2015,31/12/2015,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,102
+905,905,9837,MYS,01/01/2016,31/12/2016,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,106
+906,906,9838,MYS,01/01/2017,31/12/2017,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,122
+907,907,9839,MYS,01/01/2018,31/12/2018,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,101
+908,908,9840,MYS,01/01/2019,31/12/2019,Malaysia,1720,"Roots and Tubers, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,129
+909,909,9841,MYS,01/01/1991,31/12/1991,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,43
+910,910,9842,MYS,01/01/1992,31/12/1992,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,43
+911,911,9843,MYS,01/01/1993,31/12/1993,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,44
+912,912,9844,MYS,01/01/1994,31/12/1994,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,45
+913,913,9845,MYS,01/01/1995,31/12/1995,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,45
+914,914,9846,MYS,01/01/1996,31/12/1996,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,46
+915,915,9847,MYS,01/01/1997,31/12/1997,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,46
+916,916,9848,MYS,01/01/1998,31/12/1998,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,47
+917,917,9849,MYS,01/01/1999,31/12/1999,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,48
+918,918,9850,MYS,01/01/2000,31/12/2000,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,50
+919,919,9851,MYS,01/01/2001,31/12/2001,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,48
+920,920,9852,MYS,01/01/2002,31/12/2002,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,50
+921,921,9853,MYS,01/01/2003,31/12/2003,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,52
+922,922,9854,MYS,01/01/2004,31/12/2004,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,56
+923,923,9855,MYS,01/01/2005,31/12/2005,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,56
+924,924,9856,MYS,01/01/2006,31/12/2006,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,62
+925,925,9857,MYS,01/01/2007,31/12/2007,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,85
+926,926,9858,MYS,01/01/2008,31/12/2008,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,97
+927,927,9859,MYS,01/01/2009,31/12/2009,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,79
+928,928,9860,MYS,01/01/2010,31/12/2010,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,106
+929,929,9861,MYS,01/01/2011,31/12/2011,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,132
+930,930,9862,MYS,01/01/2012,31/12/2012,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,118
+931,931,9863,MYS,01/01/2013,31/12/2013,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,111
+932,932,9864,MYS,01/01/2014,31/12/2014,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,111
+933,933,9865,MYS,01/01/2015,31/12/2015,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,91
+934,934,9866,MYS,01/01/2016,31/12/2016,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,98
+935,935,9867,MYS,01/01/2017,31/12/2017,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,99
+936,936,9868,MYS,01/01/2018,31/12/2018,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,98
+937,937,9869,MYS,01/01/2019,31/12/2019,Malaysia,1729,"Treenuts, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,93
+938,938,9870,MYS,01/01/1991,31/12/1991,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1991,7021,Annual value,37
+939,939,9871,MYS,01/01/1992,31/12/1992,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1992,7021,Annual value,40
+940,940,9872,MYS,01/01/1993,31/12/1993,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1993,7021,Annual value,42
+941,941,9873,MYS,01/01/1994,31/12/1994,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1994,7021,Annual value,49
+942,942,9874,MYS,01/01/1995,31/12/1995,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1995,7021,Annual value,52
+943,943,9875,MYS,01/01/1996,31/12/1996,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1996,7021,Annual value,60
+944,944,9876,MYS,01/01/1997,31/12/1997,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1997,7021,Annual value,59
+945,945,9877,MYS,01/01/1998,31/12/1998,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1998,7021,Annual value,62
+946,946,9878,MYS,01/01/1999,31/12/1999,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),1999,7021,Annual value,54
+947,947,9879,MYS,01/01/2000,31/12/2000,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2000,7021,Annual value,49
+948,948,9880,MYS,01/01/2001,31/12/2001,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2001,7021,Annual value,50
+949,949,9881,MYS,01/01/2002,31/12/2002,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2002,7021,Annual value,68
+950,950,9882,MYS,01/01/2003,31/12/2003,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2003,7021,Annual value,59
+951,951,9883,MYS,01/01/2004,31/12/2004,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2004,7021,Annual value,61
+952,952,9884,MYS,01/01/2005,31/12/2005,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2005,7021,Annual value,62
+953,953,9885,MYS,01/01/2006,31/12/2006,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2006,7021,Annual value,64
+954,954,9886,MYS,01/01/2007,31/12/2007,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2007,7021,Annual value,106
+955,955,9887,MYS,01/01/2008,31/12/2008,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2008,7021,Annual value,80
+956,956,9888,MYS,01/01/2009,31/12/2009,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2009,7021,Annual value,87
+957,957,9889,MYS,01/01/2010,31/12/2010,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2010,7021,Annual value,100
+958,958,9890,MYS,01/01/2011,31/12/2011,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2011,7021,Annual value,90
+959,959,9891,MYS,01/01/2012,31/12/2012,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2012,7021,Annual value,92
+960,960,9892,MYS,01/01/2013,31/12/2013,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2013,7021,Annual value,98
+961,961,9893,MYS,01/01/2014,31/12/2014,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2014,7021,Annual value,103
+962,962,9894,MYS,01/01/2015,31/12/2015,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2015,7021,Annual value,97
+963,963,9895,MYS,01/01/2016,31/12/2016,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2016,7021,Annual value,101
+964,964,9896,MYS,01/01/2017,31/12/2017,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2017,7021,Annual value,104
+965,965,9897,MYS,01/01/2018,31/12/2018,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2018,7021,Annual value,103
+966,966,9898,MYS,01/01/2019,31/12/2019,Malaysia,1735,Vegetables Primary,Producer Price Index (2014-2016 = 100),2019,7021,Annual value,101
+967,967,9899,MYS,01/01/1991,31/12/1991,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1991,7021,Annual value,37
+968,968,9900,MYS,01/01/1992,31/12/1992,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1992,7021,Annual value,41
+969,969,9901,MYS,01/01/1993,31/12/1993,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1993,7021,Annual value,42
+970,970,9902,MYS,01/01/1994,31/12/1994,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1994,7021,Annual value,50
+971,971,9903,MYS,01/01/1995,31/12/1995,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1995,7021,Annual value,53
+972,972,9904,MYS,01/01/1996,31/12/1996,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1996,7021,Annual value,60
+973,973,9905,MYS,01/01/1997,31/12/1997,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1997,7021,Annual value,60
+974,974,9906,MYS,01/01/1998,31/12/1998,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1998,7021,Annual value,62
+975,975,9907,MYS,01/01/1999,31/12/1999,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),1999,7021,Annual value,53
+976,976,9908,MYS,01/01/2000,31/12/2000,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2000,7021,Annual value,49
+977,977,9909,MYS,01/01/2001,31/12/2001,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2001,7021,Annual value,50
+978,978,9910,MYS,01/01/2002,31/12/2002,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2002,7021,Annual value,68
+979,979,9911,MYS,01/01/2003,31/12/2003,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2003,7021,Annual value,59
+980,980,9912,MYS,01/01/2004,31/12/2004,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2004,7021,Annual value,60
+981,981,9913,MYS,01/01/2005,31/12/2005,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2005,7021,Annual value,61
+982,982,9914,MYS,01/01/2006,31/12/2006,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2006,7021,Annual value,63
+983,983,9915,MYS,01/01/2007,31/12/2007,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2007,7021,Annual value,103
+984,984,9916,MYS,01/01/2008,31/12/2008,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2008,7021,Annual value,80
+985,985,9917,MYS,01/01/2009,31/12/2009,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2009,7021,Annual value,86
+986,986,9918,MYS,01/01/2010,31/12/2010,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2010,7021,Annual value,98
+987,987,9919,MYS,01/01/2011,31/12/2011,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2011,7021,Annual value,90
+988,988,9920,MYS,01/01/2012,31/12/2012,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2012,7021,Annual value,92
+989,989,9921,MYS,01/01/2013,31/12/2013,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2013,7021,Annual value,99
+990,990,9922,MYS,01/01/2014,31/12/2014,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2014,7021,Annual value,102
+991,991,9923,MYS,01/01/2015,31/12/2015,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2015,7021,Annual value,97
+992,992,9924,MYS,01/01/2016,31/12/2016,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2016,7021,Annual value,101
+993,993,9925,MYS,01/01/2017,31/12/2017,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2017,7021,Annual value,105
+994,994,9926,MYS,01/01/2018,31/12/2018,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2018,7021,Annual value,104
+995,995,9927,MYS,01/01/2019,31/12/2019,Malaysia,1800,"Vegetables&Melons, Total",Producer Price Index (2014-2016 = 100),2019,7021,Annual value,102
